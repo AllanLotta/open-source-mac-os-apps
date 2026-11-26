@@ -23825,6 +23825,26 @@
                 "go",
                 "swift"
             ]
+        },
+        {
+            "title": "Earpiece",
+            "short_description": "Call copilot in the notch: transcribes calls on-device, spots questions aimed at you and shows a suggested answer while the call is live, using your Claude subscription.",
+            "categories": [
+                "audio",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/AllanLotta/earpiece",
+            "icon_url": "",
+            "screenshots": [
+                "https://raw.githubusercontent.com/AllanLotta/earpiece/main/docs/images/demo.gif",
+                "https://raw.githubusercontent.com/AllanLotta/earpiece/main/docs/images/panel.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
         }
     ]
 }
